@@ -13,9 +13,19 @@ Este portfólio reúne alguns dos projetos que já desenvolvi na área de Análi
 
 ---
 
-
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://abrir.link/JEVLD)
-[![Email](https://img.shields.io/badge/-taisesilva.contato@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:taisesilva.contato@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://abrir.link/gXDtN)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://abrir.link/cYqwE)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taisebatista">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:taisesilva.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://abrir.link/gXDtN">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ttais_e">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
