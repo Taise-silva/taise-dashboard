@@ -13,7 +13,9 @@ Este portfólio reúne alguns dos projetos que já desenvolvi na área de Análi
 
 ---
 
-## 📬 Contato
 
-- 📧 taise.silva.contato@gmail.com  
-- 📱 [WhatsApp](https://api.whatsapp.com/send?phone=5584998296742)  
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://abrir.link/JEVLD)
+[![Email](https://img.shields.io/badge/-taisesilva.contato@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:taisesilva.contato@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://abrir.link/gXDtN)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://abrir.link/cYqwE)  
