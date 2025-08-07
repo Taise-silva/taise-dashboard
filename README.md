@@ -16,13 +16,10 @@ Este portfólio reúne alguns dos projetos que já desenvolvi na área de Análi
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taisebatista">
+  <a href="//www.linkedin.com/in/ttaisebatista">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:taisesilva.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://abrir.link/gXDtN">
+   <a href="https://wa.me/5584998296742">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/ttais_e">
